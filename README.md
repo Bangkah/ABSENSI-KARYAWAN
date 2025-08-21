@@ -1,4 +1,4 @@
-# Absensi App - by Muhammad Dhiyaul Atha
+# Absensi App 
 
 Aplikasi Absensi berbasis **Laravel 10** dengan fitur **absensi masuk dan pulang** menggunakan **QRCode** atau **input manual**, serta sistem manajemen pengguna dan kehadiran yang lengkap.
 
